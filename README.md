@@ -1,7 +1,3 @@
-# Hi there, I'm Denis
-
-<div align="center">
-
 ### Senior SRE | DevOps Engineer | Infrastructure Architect
 
 **Building scalable cloud infrastructure with Terraform & Go**
@@ -17,13 +13,6 @@
 ## About Me
 
 I'm a passionate **Senior SRE/DevOps Engineer** at **ANNA Money** with extensive experience in cloud infrastructure, automation, and open-source development. I specialize in building robust, scalable systems using **Infrastructure as Code** principles.
-
-```yaml
-current_role: "Senior SRE @ ANNA Money"
-location: "London, UK"
-focus: ["Infrastructure as Code", "Cloud Automation", "Go Development"]
-motto: "Automate everything, monitor everything, improve everything"
-```
 
 ---
 

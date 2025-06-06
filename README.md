@@ -142,6 +142,7 @@ motto: "Automate everything, monitor everything, improve everything"
 - High-performance **Go** library
 - **Core Contributor** | Foundation for Terraform provider
 - Comprehensive API coverage with clean documentation
+- Available on [pkg.go.dev](https://pkg.go.dev/github.com/openvpn/cloudconnexa-go-client/v2/cloudconnexa)
 
 ### [SendGrid Terraform Provider](https://github.com/anna-money/terraform-provider-sendgrid)
 
@@ -149,6 +150,7 @@ motto: "Automate everything, monitor everything, improve everything"
 
 - **312K+ downloads** | **Core Contributor**
 - Full SendGrid API resource coverage
+- Available on [Terraform Registry](https://registry.terraform.io/providers/OpenVPN/cloudconnexa/latest)
 
 ---
 

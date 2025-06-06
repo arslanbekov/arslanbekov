@@ -1,4 +1,4 @@
-# Hi there, I'm Denis Arslanbekov
+# Hi there, I'm Denis
 
 <div align="center">
 
@@ -41,8 +41,7 @@ motto: "Automate everything, monitor everything, improve everything"
 
 **Core Contributor** to the official **OpenVPN CloudConnexa Terraform Provider**
 
-- **Partnership Project**: Led collaboration between OpenVPN & ANNA Money
-- Built from ground up using **Go** and Terraform SDK
+- Built from the ground up using **Go** and Terraform SDK
 - Published on [Terraform Registry](https://registry.terraform.io/providers/OpenVPN/cloudconnexa/latest)
 - Enables Infrastructure as Code for secure networking
 
@@ -57,8 +56,8 @@ motto: "Automate everything, monitor everything, improve everything"
 
 - High-performance Go library for CloudConnexa API
 - RESTful API client with comprehensive coverage
-- Used as foundation for Terraform provider
-- Clean, idiomatic Go code with full documentation
+- Used as a foundation for the Terraform provider
+- Clean, idiomatic Go code with complete documentation
 
 </td>
 </tr>
@@ -167,7 +166,7 @@ motto: "Automate everything, monitor everything, improve everything"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanbekov)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanbekov@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis@arslanbekov.com)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arslanbekov.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arslanbekov)
 

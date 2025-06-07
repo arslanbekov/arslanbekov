@@ -167,7 +167,7 @@ I'm a passionate **Senior SRE/DevOps Engineer** at **ANNA Money** with extensive
 
 <div align="center">
 
-### **"Building the future, one commit at a time"**
+### **"Building a Better Future, One Commit at a Time" (c)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arslanbekov&color=brightgreen&style=for-the-badge)
 

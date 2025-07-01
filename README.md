@@ -2,6 +2,7 @@
 
 **Building scalable cloud infrastructure with Terraform & Go**
 
+[![CV](https://img.shields.io/badge/CV-PDF-informational?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1-Hscddnhy62YmtUamuq2xdEYo3ZSEmcR/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanbekov)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arslanbekov.com)
 [![Location](https://img.shields.io/badge/London-United%20Kingdom-blue?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=London,UK)
